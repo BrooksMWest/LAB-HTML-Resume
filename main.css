@@ -1,3 +1,27 @@
 body {
   background-color: crimson;
 }
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#job1 {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  border-style: double;
+ 
+}
+#job2 {
+  color:yellow;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-style: groove;
+  
+}
+#job3 {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-style: dotted;
+}
+h3{
+  font-family: monospace;
+  color: blue;
+}
